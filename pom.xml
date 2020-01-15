@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bluelotussoftware</groupId>
     <artifactId>jaxrs-mustache-form-validation</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>war</packaging>
     <name>Jersey Mustache Bean Validation</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jersey.version>2.26</jersey.version>
+        <jersey.version>2.29.1</jersey.version>
     </properties>
     
     <dependencies>
@@ -78,7 +78,7 @@
         <dependency>
             <groupId>org.hibernate.validator</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>6.0.6.Final</version>
+            <version>6.1.0.Final</version>
         </dependency>
         
     </dependencies>
